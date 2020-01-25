@@ -1,3 +1,3 @@
 Explain how Android touch event works.
-blog [here](https://app.gitbook.com/@wang-yi-fan/s/android/touch-event-liu-cheng)
+blog [here](https://wang-yi-fan.gitbook.io/android/touch-event-liu-cheng)
 
